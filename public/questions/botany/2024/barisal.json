@@ -1,0 +1,114 @@
+﻿{
+    "questions":  [
+                      {
+                          "correctAnswer":  "Option D",
+                          "id":  1,
+                          "text":  "What is the process of photosynthesis?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option C",
+                          "id":  2,
+                          "text":  "Which organelle is responsible for energy production in plant cells?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  3,
+                          "text":  "Define transpiration in plants.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  4,
+                          "text":  "What are the main types of plant tissues?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  5,
+                          "text":  "Explain the function of chlorophyll.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  6,
+                          "text":  "What is pollination?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  7,
+                          "text":  "Describe the structure of a typical plant cell.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option D",
+                          "id":  8,
+                          "text":  "What is the role of stomata in leaves?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  9,
+                          "text":  "Define respiration in plants.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  10,
+                          "text":  "What are the main types of roots?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      }
+                  ]
+}

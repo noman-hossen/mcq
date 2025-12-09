@@ -1,0 +1,114 @@
+﻿{
+    "questions":  [
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  1,
+                          "text":  "What is the atomic number of carbon?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  2,
+                          "text":  "Explain the concept of electronegativity.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  3,
+                          "text":  "What is a chemical bond?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  4,
+                          "text":  "Define oxidation and reduction.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  5,
+                          "text":  "What is pH and its significance?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  6,
+                          "text":  "Explain the law of conservation of mass.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  7,
+                          "text":  "What are the states of matter?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option D",
+                          "id":  8,
+                          "text":  "Define a mole in chemistry.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option D",
+                          "id":  9,
+                          "text":  "What is the periodic table used for?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option D",
+                          "id":  10,
+                          "text":  "Explain isotopes and their properties.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      }
+                  ]
+}

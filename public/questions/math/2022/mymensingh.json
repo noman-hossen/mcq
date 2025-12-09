@@ -1,0 +1,114 @@
+﻿{
+    "questions":  [
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  1,
+                          "text":  "What is the value of pi?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option D",
+                          "id":  2,
+                          "text":  "Define a prime number.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  3,
+                          "text":  "What is the Pythagorean theorem?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  4,
+                          "text":  "Explain the concept of derivatives in calculus.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  5,
+                          "text":  "What is the sum of angles in a triangle?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option C",
+                          "id":  6,
+                          "text":  "Define a quadratic equation.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  7,
+                          "text":  "What is the formula for the area of a circle?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option B",
+                          "id":  8,
+                          "text":  "Explain the concept of limits.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option C",
+                          "id":  9,
+                          "text":  "What is a logarithm?",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      },
+                      {
+                          "correctAnswer":  "Option A",
+                          "id":  10,
+                          "text":  "Define a matrix and its properties.",
+                          "options":  [
+                                          "Option A",
+                                          "Option B",
+                                          "Option C",
+                                          "Option D"
+                                      ]
+                      }
+                  ]
+}

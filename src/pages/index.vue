@@ -1,13 +1,12 @@
 ﻿<template>
   <div class="home">
     <HomeTxt />
-    <Btn1 text="Start Exam" to="/mode" />
-    <Btn1 text="View Scores" />
+    <Btn1 text="Start Exam" to="/exam/mode" />
+    <Btn1 text="Exam History" to="/subjects/history" />
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
 import Btn1 from "@/components/Btn1.vue";
 import HomeTxt from "@/components/HomeTxt.vue";
 export default {
